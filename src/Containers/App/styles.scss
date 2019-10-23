@@ -1,0 +1,13 @@
+.app {
+  height: 100%;
+  width: 100%;
+  background: orange;
+  display: flex;
+  flex-direction: column;
+
+  .contentDiv {
+    height: 500px;
+    width: 500px;
+    border: 1px solid red;
+  }
+}
